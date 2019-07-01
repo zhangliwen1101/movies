@@ -2,8 +2,6 @@
 
 > 一个微信小程序（应用号）开发示例（豆瓣电影）
 
-[![License][license-image]][license-url]
-[![Code Style][style-image]][style-url]
 
 ## 项目预览
 
@@ -11,7 +9,7 @@
 
 很多朋友给我发消息说希望可以真机体验一下，所以前段时间我抽空把这个小程序发布了，大家可以通过微信扫码体验：
 
-![DoubanFilm](https://github.com/zhangliwen1101/Images/blob/master/img/movies/erweima.jpg)
+![DoubanFilm](https://github.com/zhangliwen1101/Images/blob/master/img/movies/erweima.jpg alt="我的二维码：二维码" width="300")
 
 源码我放在了：https://github.com/zhangliwen1101/movies
 
@@ -53,7 +51,7 @@ Welcome PR / Issue / WeChat！
 微信群垃圾广告和无意义的分享链接太多，最近狠下心清理了~
 改用 QQ 群，单独审核，禁止广告，我的目的很简单，就是留出一个干净的环境，让志同道合的一起玩，谢谢大家
 
-![IT BETTER群二维码](https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/movies/qq.png)
+![IT BETTER群二维码](https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/movies/qq.png alt="我的QQ群：QQ" width="300")
 
 ### 我的微信
 
