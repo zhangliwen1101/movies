@@ -9,7 +9,7 @@
 
 很多朋友给我发消息说希望可以真机体验一下，所以前段时间我抽空把这个小程序发布了，大家可以通过微信扫码体验：
 
-![DoubanFilm]<img src="https://github.com/zhangliwen1101/Images/blob/master/img/movies/erweima.jpg alt="我的二维码：二维码" width="300">
+![DoubanFilm]<img src="https://github.com/zhangliwen1101/Images/blob/master/img/movies/erweima.jpg" alt="我的二维码：二维码" width="300">
 
 源码我放在了：https://github.com/zhangliwen1101/movies
 
